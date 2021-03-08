@@ -1,2 +1,3 @@
 # Alareqi
-Electronic
+
+educational
