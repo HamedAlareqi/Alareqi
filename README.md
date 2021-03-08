@@ -1,3 +1,3 @@
-# Alareqi
+# ALAREQI
 
 educational
